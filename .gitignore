@@ -2,6 +2,7 @@
 *
 # Except this file
 !.gitignore
+!src/
 !src/.gitkeep
 !gulp/
 !gulp/*
