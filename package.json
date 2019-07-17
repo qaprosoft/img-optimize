@@ -1,0 +1,30 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "Solvd",
+  "keywords": [
+    "project"
+  ],
+  "author": {
+    "name": "Soldv inc"
+  },
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.4.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "gulp": "gulp",
+    "start": "gulp"
+  },
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-svgmin": "~1.2.2",
+    "imagemin-mozjpeg": "^8.0.0"
+  }
+}

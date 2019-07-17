@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!src/.gitkeep
+!gulp/
+!gulp/*
+!.editorconfig
+!package.json
+!README.md
+!gulpfile.js
