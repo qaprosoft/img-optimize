@@ -5,7 +5,7 @@
 !src/
 !src/.gitkeep
 !gulp/
-!gulp/*
+!gulp/**
 !.editorconfig
 !package.json
 !README.md
